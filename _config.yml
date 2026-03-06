@@ -1,0 +1,8 @@
+title: SOC Reports
+description: Security Operations Center Reports
+theme: jekyll-theme-hacker
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
