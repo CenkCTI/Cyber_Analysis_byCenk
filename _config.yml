@@ -1,8 +1,10 @@
-title: SOC Reports
-description: Security Operations Center Reports
-theme: jekyll-theme-hacker
+title: CTI Reports
+description: Cyber Threat Intelligence Reports
 
-markdown: kramdown
+theme: just-the-docs
 
-plugins:
-  - jekyll-feed
+color_scheme: dark
+
+search_enabled: true
+
+nav_enabled: true
