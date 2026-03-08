@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: default
 title: "The Use of Legitimate Services for Cyber Espionage Activities – Poland Assessment"
-date: 2026-03-05
-categories: threat-intel
+parent: CTI Raporları
+nav_order: 1
 ---
 
 ## Overview
