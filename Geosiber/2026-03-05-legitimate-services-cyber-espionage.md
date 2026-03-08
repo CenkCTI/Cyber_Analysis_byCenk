@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Use of Legitimate Services for Cyber Espionage Activities – Poland Assessment"
-parent: CTI Analysis -Operational Level
+parent: Cyber & Geopolitical Analysis -Strategic Level
 nav_order: 1
 ---
 
