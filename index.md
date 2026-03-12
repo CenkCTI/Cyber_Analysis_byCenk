@@ -23,3 +23,10 @@ TryHackMe – SOC Level 1 Training
 Microsoft – SC-900 Security, Compliance & Identity Fundamentals
 
 Vizja University – Computer Science (Cyber Security)
+
+
+## Contact
+  
+cenk.mcan.polat@proton.me  
+
++48 794 406 728 
