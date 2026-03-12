@@ -6,34 +6,20 @@ nav_order: 1
 
 # Who Am I?
 
-Halili siken adam:
+I am a cybersecurity enthusiast focused on Security Operations (SOC) and Cyber Threat Intelligence (CTI). I analyze real-world cyber incidents and document my findings to better understand attacker tactics, techniques, and procedures (TTPs).
 
-- Siker geçerim halili
-- Götdeliğinden girer
-- ağzın öıkarım onun
+My work includes analyzing cyber attacks, researching threat actors, and publishing technical reports on malware campaigns, security incidents, and emerging threats.
 
-        XX XXXX                  
-     XXXX      XXXX              
-   XXX            XXX            
-  XX                XXX          
- XX                XXXX          
-XX              XXXX             
-XXXXXX           X               
-      X          XX              
-      X           X              
-      X           X              
-      X           X              
-      X           X              
-      X           XX             
-      X            X             
-      X            XXX           
-      X              XXXXXXX     
-      X                    XXXXX 
- XXXXXX         X               X
-XX              X               X
-X              XX               X
-X              XXX             XX
-X              X X              X
-XXX            X XXX         X XX
-  XXX          X   XXXXXXXXX     
-    XXXXXXXXXXX                  
+My analysis focuses on attacker TTPs, detection strategies, and defensive insights for security teams.
+
+This website serves as a personal platform where I share cyber incident analysis, threat intelligence research, and technical notes.
+
+I am currently seeking opportunities in SOC Analyst roles or Cyber Threat Intelligence, where I can apply analytical skills and continue developing expertise in cyber defense.
+
+Education / Training
+
+TryHackMe – SOC Level 1 Training
+
+Microsoft – SC-900 Security, Compliance & Identity Fundamentals
+
+Vizja University – Computer Science (Cyber Security)
