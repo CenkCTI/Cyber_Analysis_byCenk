@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automated CTİ Tool
+title: Automated CTI Tool
 nav_order: 3
 has_children: true
 ---
