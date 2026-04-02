@@ -19,15 +19,6 @@ parent: Automated CTI Tool
 
 ```python
 ///
-"""
-RSS Feed Reader & SQLite Storage Pipeline
-==========================================
-Features:
-  - Fetches multiple RSS feeds via feedparser
-  - Extracts title, link, published date, and summary
-  - Stores entries in SQLite, using link as a unique key (no duplicates)
-  - Structured for future spaCy NLP / entity extraction
-"""
 
 import sqlite3
 import logging
