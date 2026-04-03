@@ -1,12 +1,3 @@
----
-layout: page
-title: "Araştırma Tablosu"
----
-
-## Araştırma Tablosu
-
-<div style="text-align:center; margin:20px 0;">
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
 <?xml version="1.0" standalone="no"?>
   <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55429.17252357956 42854.09677188177" width="166287.51757073868" height="128562.29031564531">
@@ -3913,5 +3904,3 @@ title: "Araştırma Tablosu"
       <mask>
       </mask>
     </svg>
-</svg>
-</div>
