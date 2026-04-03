@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Automated CTI Tool
+title: RSS Tool Source Code
 nav_order: 1
-parent: Automated CTI Tool
+parent: RSS Data Collection and AI Analysis System 
 ---
 
 
