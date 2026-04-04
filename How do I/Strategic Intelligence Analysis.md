@@ -2,8 +2,9 @@
 layout: default
 title: Intelligence Analysis: Key Concepts for SOC/CTI
 parent: How do I prepare for the profession of cyber security analyst and CTI?
-nav_order: 2
+nav_order: 3
 ---
+# Intelligence Analysis: Key Concepts for SOC/CTI
 
 1. Analysis Missions
 In cybersecurity intelligence, the analysis phase is crucial. Analysts focus on interpreting collected data to inform decisions. Two primary approaches are:
