@@ -2,7 +2,7 @@
 layout: default
 title: Intelligence Analysis: Key Concepts for SOC/CTI
 parent: How do I prepare for the profession of cyber security analyst and CTI?
-nav_order: 3
+nav_order: 1
 ---
 # Intelligence Analysis: Key Concepts for SOC/CTI
 
