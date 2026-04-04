@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Intelligence Process: Information in Cyber/Strategic Analysis
-parent: How do I prepare for the profession of cyber security analyst and CTI?
+title: "Intelligence Process: Information in Cyber/Strategic Analysis"
+parent: "How do I prepare for the profession of cyber security analyst and CTI?"
 nav_order: 3
 ---
 
