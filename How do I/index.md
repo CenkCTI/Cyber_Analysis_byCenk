@@ -26,17 +26,7 @@ Below, you can find a brief summary of how I am preparing for my profession and 
 
 ## Pictures of some of my notes
 
-## My Notes Pictures
-
-<div style="display:flex; overflow-x:auto; gap:10px; padding:10px 0;">
-  <img src="sf1.jpeg" alt="Note 1" style="height:200px; flex-shrink:0; border-radius:5px;">
-  <img src="sf2.jpeg" alt="Note 2" style="height:200px; flex-shrink:0; border-radius:5px;">
-  <img src="sf3.jpeg" alt="Note 3" style="height:200px; flex-shrink:0; border-radius:5px;">
-</div>
-
-<div class="horizontal-scroll">
-  <img src="sf1.jpeg" alt="Note 1">
-  <img src="sf2.jpeg" alt="Note 2">
-  <img src="sf3.jpeg" alt="Note 3">
-  <!-- daha fazla görsel ekleyebilirsin -->
+<div markdown="0" style="display:flex; overflow-x:auto; gap:10px; padding:10px 0; -webkit-overflow-scrolling:touch;">
+  <img src="sf1.jpeg" alt="Note 1" style="height:200px; width:auto; min-width:150px; flex-shrink:0; border-radius:5px; object-fit:cover; display:inline-block;">
+  <img src="sf2.jpeg" alt="Note 2" style="height:200px; width:auto; min-width:150px; flex-shrink:0; border-radius:5px; object-fit:cover; display:inline-block;">
 </div>
