@@ -26,7 +26,37 @@ Below, you can find a brief summary of how I am preparing for my profession and 
 
 ## Pictures of some of my notes
 
-<div markdown="0" style="display:flex; overflow-x:auto; gap:10px; padding:10px 0; -webkit-overflow-scrolling:touch;">
-  <img src="sf1.jpeg" alt="Note 1" style="height:200px; width:auto; min-width:150px; flex-shrink:0; border-radius:5px; object-fit:cover; display:inline-block;">
-  <img src="sf2.jpeg" alt="Note 2" style="height:200px; width:auto; min-width:150px; flex-shrink:0; border-radius:5px; object-fit:cover; display:inline-block;">
+## My Notes Pictures
+
+<div style="display:flex; overflow-x:auto; gap:10px; padding:10px 0;">
+  <img src="sf1.jpeg" alt="Note 1" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf2.jpeg" alt="Note 2" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf3.jpeg" alt="Note 3" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf4.jpeg" alt="Note 4" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf5.jpeg" alt="Note 5" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf6.jpeg" alt="Note 6" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf7.jpeg" alt="Note 7" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf8.jpeg" alt="Note 8" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf9.jpeg" alt="Note 9" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf10.jpeg" alt="Note 10" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf11.jpeg" alt="Note 11" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf12.jpeg" alt="Note 12" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf13.jpeg" alt="Note 13" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf14.jpeg" alt="Note 14" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf15.jpeg" alt="Note 15" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf16.jpeg" alt="Note 16" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf17.jpeg" alt="Note 17" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf18.jpeg" alt="Note 18" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf19.jpeg" alt="Note 19" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf20.jpeg" alt="Note 20" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf21.jpeg" alt="Note 21" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf22.jpeg" alt="Note 22" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf23.jpeg" alt="Note 23" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf24.jpeg" alt="Note 24" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf25.jpeg" alt="Note 25" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf26.jpeg" alt="Note 26" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf27.jpeg" alt="Note 27" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf28.jpeg" alt="Note 28" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf29.jpeg" alt="Note 29" style="height:400px; flex-shrink:0; border-radius:5px;">
+  <img src="sf30.jpeg" alt="Note 30" style="height:400px; flex-shrink:0; border-radius:5px;">
 </div>
