@@ -22,7 +22,6 @@ Intelligence is a process, not a single step. In CTI, the goal is to understand 
 7. Share internally  
 8. Deliver to decision-makers (SOC / security team)  
 
-> Simple in theory, messy in practice.
 
 ---
 
@@ -36,8 +35,6 @@ Examples in CTI:
 - Is this normal or an anomaly?  
 
 Tasks may come from SOC or management, but sometimes analysts identify anomalies themselves.
-
-> Good analysts don’t wait — they notice unusual patterns.
 
 ---
 
@@ -56,7 +53,6 @@ Types:
 - **Technical warning:** logs, indicators, evidence  
 - **Analytical warning:** prediction, not always certain  
 
-In CTI, both are used together.
 
 ---
 
@@ -93,7 +89,7 @@ Also:
 - Open sources  
 - Controlled/closed sources  
 
-> Bad data leads to bad analysis.
+
 
 ---
 
