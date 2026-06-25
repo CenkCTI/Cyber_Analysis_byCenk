@@ -1,7 +1,7 @@
 --- 
 layout: default
 title: "Renewable Energy Facility – December 2025 Incident Poland"
-parent: SOC Analysis / TTP Detection -Tactical Level
+parent: SOC Analysis / TTP Detection
 nav_order: 1
 ---
 
