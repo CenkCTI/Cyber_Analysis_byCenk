@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOC Analysis / TTP Detection
+title: "SOC Analysis / TTP Detection"
 nav_order: 3
 has_children: true
 ---
