@@ -24,6 +24,9 @@ cenk.mcan.polat@proton.me
 +48 794 406 728 
 
 
-# My Certificates and Badges
+# My Certificates
 
-<iframe src="THM-B27KD6LONS.pdf" width="100%" height="600px"></iframe>
+<iframe src="THM-B27KD6LONS.pdf" width="100%" height="400px"></iframe>
+<iframe src="THM-EJEN2WDO6M.pdf" width="100%" height="300px"></iframe>
+
+
