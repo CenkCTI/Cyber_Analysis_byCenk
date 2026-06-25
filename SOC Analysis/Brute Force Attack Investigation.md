@@ -1,3 +1,12 @@
+--- 
+layout: default
+title: "Brute Force Attack Investigation"
+parent: SOC Analysis / TTP Detection
+nav_order: 1
+---
+
+
+
 # Brute Force Attack Investigation
 
 ## Summary
