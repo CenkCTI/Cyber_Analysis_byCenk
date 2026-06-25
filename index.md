@@ -26,9 +26,4 @@ cenk.mcan.polat@proton.me
 
 # My Certificates and Badges
 
-
-
-<div style="display:flex; overflow-x:auto; gap:10px; padding:10px 0;">
-  <img src="[THM-B27KD6LONS.pdf]" alt="Note 1" style="height:700px; flex-shrink:0; border-radius:5px;">
-
-</div>
+<iframe src="THM-B27KD6LONS.pdf" width="100%" height="800px"></iframe>
