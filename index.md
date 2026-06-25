@@ -22,3 +22,13 @@ Vizja University – Computer Science (Cyber Security)
 cenk.mcan.polat@proton.me  
 
 +48 794 406 728 
+
+
+#My Certificates and Badges
+
+
+
+<div style="display:flex; overflow-x:auto; gap:10px; padding:10px 0;">
+  <img src="[sf1.jpeg](https://tryhackme.com/MustafacanPolat/badges/sapphire-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=683f7c8e0f6f051c0f606499)" alt="Note 1" style="height:700px; flex-shrink:0; border-radius:5px;">
+
+</div>
