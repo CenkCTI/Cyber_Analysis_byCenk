@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Use of Legitimate Services for Cyber Espionage Activities – Poland Assessment"
-parent: Cyber & Geopolitical Analysis -Strategic Level
+parent: Cyber & Geopolitical Analysis
 nav_order: 1
 ---
 
