@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cyber & Geopolitical Analysis -Strategic Level
+title: Cyber & Geopolitical Analysis
 nav_order: 3
 has_children: true
 ---
