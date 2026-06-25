@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOC Analysis / TTP Detection -Tactical Level 
+title: SOC Analysis / TTP Detection
 nav_order: 3
 has_children: true
 ---
