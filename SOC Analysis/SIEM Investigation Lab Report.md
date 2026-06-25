@@ -1,6 +1,6 @@
 --- 
 layout: default
-title: "Renewable Energy Facility – December 2025 Incident Poland"
+title: "SIEM Investigation Lab Report"
 parent: SOC Analysis / TTP Detection
 nav_order: 1
 ---
