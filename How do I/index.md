@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How do I prepare for the profession of cyber security analyst and CTI?
-nav_order: 3
+nav_order: 5
 has_children: true
 ---
 
