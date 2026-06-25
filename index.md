@@ -29,6 +29,6 @@ cenk.mcan.polat@proton.me
 
 
 <div style="display:flex; overflow-x:auto; gap:10px; padding:10px 0;">
-  <img src="[thm1.jpeg]" alt="Note 1" style="height:700px; flex-shrink:0; border-radius:5px;">
+  <img src="[THM-B27KD6LONS.pdf]" alt="Note 1" style="height:700px; flex-shrink:0; border-radius:5px;">
 
 </div>
