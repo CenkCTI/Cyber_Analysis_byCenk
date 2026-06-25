@@ -1,8 +1,7 @@
-
 ---
 layout: default
 title: "The Use of Legitimate Services for Cyber Espionage Activities – Poland Assessment"
-parent: CTI Analysis
+parent: "CTI Analysis"
 nav_order: 1
 ---
 
