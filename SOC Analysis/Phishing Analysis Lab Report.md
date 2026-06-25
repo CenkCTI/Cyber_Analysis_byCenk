@@ -1,8 +1,8 @@
 --- 
 layout: default
-title: "Brute Force Attack Investigation"
-parent: Phishing Analysis Lab Report
-nav_order: 3
+title: "Phishing Analysis Lab Report"
+parent: SOC Analysis / TTP Detection
+nav_order: 4
 ---
 
 
