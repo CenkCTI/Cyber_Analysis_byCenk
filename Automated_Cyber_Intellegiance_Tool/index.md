@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RSS Data Collection and AI Analysis System
-nav_order: 3
+nav_order: 4
 has_children: true
 ---
 
